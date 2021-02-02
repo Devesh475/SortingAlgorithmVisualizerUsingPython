@@ -21,3 +21,4 @@ Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 * Bubble Sort (Time Complexity : N ^ 2)
 
 ### Want to know more about these algorithms visit [GFG](https://www.geeksforgeeks.org/sorting-algorithms/)
+* The .exe file is uploaded in the repository which can be downloaded and can be run on a windows operating system.
