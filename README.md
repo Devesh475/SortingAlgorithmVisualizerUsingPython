@@ -1,5 +1,7 @@
 # SortingAlgorithmVisualizerUsingPython
 This is a python script for visualizing the sorting algorithms using python tkinter module.
+
+
 ![Sorting Demo](demo/sorting.gif)
 
 ## Dependencies
